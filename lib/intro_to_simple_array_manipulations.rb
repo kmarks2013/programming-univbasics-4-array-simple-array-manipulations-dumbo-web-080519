@@ -4,5 +4,6 @@ def using_push(array, element)
 end
 
 def using_unshift(array, element)
-  
+  new_element = element
+  arry.unshift(new_element)
 end
